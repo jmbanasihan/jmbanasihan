@@ -27,7 +27,7 @@
 <br>
 
 
-## Stats
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Stats
 <br>
 <p align="center">
    <a href="https://github.com/jmbanasihan/github-readme-streak-stats">
