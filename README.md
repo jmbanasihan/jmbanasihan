@@ -16,8 +16,6 @@
  ⚡ Fun fact **I love coffee**
 <br><br>
 
-[![Codewars: jmbanasihan](https://img.shields.io/codewars/follow/jmbanasihan?style=social)](https://codewars.com/jmbanasihan)
-[![Linkedin: janielbanasihan](https://img.shields.io/badge/-janiel-banasihan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janiel-banasihan/)](https://www.linkedin.com/in/janiel-banasihan/)
 [![GitHub jmbanasihan](https://img.shields.io/github/followers/jmbanasihan?label=follow&style=social)](https://github.com/jmbanasihan)
 
 
