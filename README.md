@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Janiel!</h1>
 <h3 align="center">A passionate Frontend Developer from the Philippines</h3><hr><br>
 
-- 🌱 I’m currently learning **Frontend Web Development**
+<p align="center">🌱 I’m currently learning **Frontend Web Development**</p>
 
-- 🔭 I’m currently working on **some projects**
+<p align="center">🔭 I’m currently working on **some projects**</p>
 
-- 👨‍💻 You can find my portfolio here [janiel.ml](janiel.ml)
+<p align="center">👨‍💻 You can find my portfolio here [janiel.ml](janiel.ml)</p>
 
-- 📫 Contact me **janimargaret09@gmail.com**
+<p align="center">📫 Contact me **janimargaret09@gmail.com**</p>
 
-- ⚡ Fun fact **I love coffee**
+<p align="center">⚡ Fun fact **I love coffee**</p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3><hr><br>
