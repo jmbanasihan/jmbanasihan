@@ -1,4 +1,7 @@
 di<h1 align="center">Hi there 👋, I'm Janiel!</h1>
+
+![A passionate Frontend Developer from the Philippines](banner.gif)
+
 <h3 align="center">A passionate Frontend Developer from the Philippines</h3><hr><br>
 
  🌱 I’m currently learning **Frontend Web Development**
