@@ -62,9 +62,10 @@
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> See my works
-<details open="open">
+
   <br/>
 
+<div class="works-container" align="center">
 <a href="https://github.com/jmbanasihan/Real-Estate">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=Real-Estate&theme=vision-friendly-dark" />
 </a>
@@ -80,5 +81,4 @@
 <a href="https://github.com/jmbanasihan/sign-in-page">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=sign-in-page&theme=vision-friendly-dark" />
 </a>
-
-</details>
+</div>
