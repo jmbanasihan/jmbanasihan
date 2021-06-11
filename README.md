@@ -66,7 +66,7 @@
   <br/>
 
 <a href="https://github.com/jmbanasihan/Real-Estate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=Real-Estate&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=Real-Estate&theme=merko" />
 </a>
 
 <a href="https://github.com/jmbanasihan/lottery-game">
@@ -74,7 +74,7 @@
 </a>
 
 <a href="https://github.com/jmbanasihan/dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=dashboard&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=dashboard&theme=gruvbox" />
 </a>
   
 <a href="https://github.com/jmbanasihan/sign-in-page">
