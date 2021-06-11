@@ -50,14 +50,11 @@
 ## Connect with me:
 <br>
 
-<div class="link-container" style="display:flex;flex-direction:row;gap:20px;justify-content:center;align-items:center;">
-
-<a href = "https://www.linkedin.com/in/janiel-banasihan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/janiel-banasihan/"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
-<a href = "https://www.codewars.com/users/janielbanasihan"><img src="https://img.icons8.com/fluent/48/000000/code.png"/></a>
+<a href = "https://www.codewars.com/users/janielbanasihan"><img align="left" src="https://img.icons8.com/fluent/48/000000/code.png"/></a>
 
 
-<a href = "mailto:janimargaret09@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "mailto:janimargaret09@gmail.com"><img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
-</div>
