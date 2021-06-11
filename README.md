@@ -1,8 +1,8 @@
 ![A passionate Frontend Developer from the Philippines](header.gif)
-<h1 align="center">Hi there 👋, I'm Janiel!</h1>
+<h1 align="center">Hey there 👋, I'm Janiel!</h1>
 <h3 align="center">A passionate Frontend Developer from the Philippines</h3><hr><br>
 
-## Get to know me!
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Get to know me!
 <br>
 
  🌱 I’m currently learning **Frontend Web Development**
@@ -19,7 +19,7 @@
 [![GitHub jmbanasihan](https://img.shields.io/github/followers/jmbanasihan?label=follow&style=social)](https://github.com/jmbanasihan)
 
 
-## Languages and Tools:
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Languages and Tools:
 
 <br><br>
 <div class="language-container" style="margin-right:20px;">
