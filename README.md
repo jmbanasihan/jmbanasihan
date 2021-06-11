@@ -1,4 +1,4 @@
-![A passionate Frontend Developer from the Philippines](gif.gif)
+![A passionate Frontend Developer from the Philippines](header.gif)
 <h1 align="center">Hi there 👋, I'm Janiel!</h1>
 <h3 align="center">A passionate Frontend Developer from the Philippines</h3><hr><br>
 
