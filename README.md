@@ -60,7 +60,7 @@
 
 <a href = "mailto:janimargaret09@gmail.com"><img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
-<br><br>
+<br><br><br><br>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> See my works
 
