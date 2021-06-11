@@ -41,6 +41,8 @@
 
 <h3 align="left">Connect with me:</h3><hr><br>
 
+<div class="link-container" style="display:flex; flex-direction=row; gap=20px;">
+
 <a align="center" href = "https://www.linkedin.com/in/janiel-banasihan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
@@ -48,3 +50,5 @@
 
 
 <a align="center" href = "mailto:janimargaret09@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+
+</div>
