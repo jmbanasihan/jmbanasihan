@@ -48,7 +48,6 @@
 <br/>
 
 ## Connect with me:
-<br>
 
 <a href = "https://www.linkedin.com/in/janiel-banasihan/"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
