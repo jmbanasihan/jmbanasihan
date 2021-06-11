@@ -53,16 +53,14 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me:
 <br>
 
-<div class="links-container" align="center">
-<a href = "https://www.linkedin.com/in/janiel-banasihan/"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/janiel-banasihan/"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
-<a href = "https://www.codewars.com/users/janielbanasihan"><img align="left" src="https://img.icons8.com/fluent/48/000000/code.png"/></a>
+<a href = "https://www.codewars.com/users/janielbanasihan"><img align="center" src="https://img.icons8.com/fluent/48/000000/code.png"/></a>
 
 
-<a href = "mailto:janimargaret09@gmail.com"><img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "mailto:janimargaret09@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
-</div>
 <br><br><br><br>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> See my works
