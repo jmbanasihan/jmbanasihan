@@ -60,3 +60,25 @@
 
 <a href = "mailto:janimargaret09@gmail.com"><img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> See my works
+<details open="open">
+  <br/>
+
+<a href="https://github.com/jmbanasihan/Real-Estate">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=Real-Estate&theme=dark" />
+</a>
+
+<a href="https://github.com/jmbanasihan/lottery-game">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=lottery-game&theme=dark" />
+</a>
+
+<a href="https://github.com/jmbanasihan/dashboard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=dashboard&theme=dark" />
+</a>
+  
+<a href="https://github.com/jmbanasihan/sign-in-page">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=sign-in-page&theme=dark" />
+</a>
+
+</details>
