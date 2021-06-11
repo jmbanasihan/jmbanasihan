@@ -18,9 +18,9 @@
 <br>
 
 
-<p align="center"></p>
+<p align="center">
    <a href="https://github.com/jmbanasihan/github-readme-streak-stats">
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jmbanasihan&theme=dark)](https://git.io/streak-stats)
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jmbanasihan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jmbanasihan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
