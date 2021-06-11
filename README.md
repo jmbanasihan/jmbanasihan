@@ -66,19 +66,19 @@
   <br/>
 
 <a href="https://github.com/jmbanasihan/Real-Estate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=Real-Estate&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=Real-Estate&theme=vision-friendly-dark" />
 </a>
 
 <a href="https://github.com/jmbanasihan/lottery-game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=lottery-game&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=lottery-game&theme=vision-friendly-dark" />
 </a>
 
 <a href="https://github.com/jmbanasihan/dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=dashboard&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=dashboard&theme=vision-friendly-dark" />
 </a>
   
 <a href="https://github.com/jmbanasihan/sign-in-page">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=sign-in-page&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmbanasihan&repo=sign-in-page&theme=vision-friendly-dark" />
 </a>
 
 </details>
