@@ -24,11 +24,20 @@
     </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbanasihan&show_icons=true&locale=en" alt="jmbanasihan" /><br><br>
+<br/>
+    <a href="https://github.com/jmbanasihan/github-readme-stats"><img alt="jmbanasihan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmbanasihan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jmbanasihan/github-readme-stats"><img alt="jmbanasihan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbanasihan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmbanasihan&" alt="jmbanasihan" /><br><br>
 
+<br/>
+<br/>
 
+<a href="https://github.com/jmbanasihan/github-readme-activity-graph"><img alt="jmbanasihan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmbanasihan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3><hr><br>
 
@@ -41,3 +50,17 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>(janiel.ml)  
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>(https://www.codewars.com/users/janielbanasihan)  
+
+
+<p align="left">
+
+<a align="center" href = "https://www.linkedin.com/in/janiel-banasihan/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
+
+<a align="center" href = "https://www.codewars.com/users/janielbanasihan"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+
+
+<a align="center" href = "mailto:janimargaret09@gmail.com"><img src="https://image.flaticon.com/icons/png/512/732/732200.png"/></a>
+
+
+
+</p>
