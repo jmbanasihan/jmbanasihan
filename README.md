@@ -41,19 +41,6 @@
 
 <h3 align="left">Connect with me:</h3><hr><br>
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/jmbanasihan)  
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/janiel-banasihan/)  
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jmbanasihan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/jmbanasihan)  
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>(janiel.ml)  
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>(https://www.codewars.com/users/janielbanasihan)  
-
-
-<p align="left">
-
 <a align="center" href = "https://www.linkedin.com/in/janiel-banasihan/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
 
 <a align="center" href = "https://www.codewars.com/users/janielbanasihan"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
@@ -61,6 +48,3 @@
 
 <a align="center" href = "mailto:janimargaret09@gmail.com"><img src="https://image.flaticon.com/icons/png/512/732/732200.png"/></a>
 
-
-
-</p>
