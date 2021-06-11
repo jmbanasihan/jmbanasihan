@@ -51,7 +51,9 @@
 <br/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me:
+<br>
 
+<div class="links-container" align="center">
 <a href = "https://www.linkedin.com/in/janiel-banasihan/"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
@@ -60,11 +62,12 @@
 
 <a href = "mailto:janimargaret09@gmail.com"><img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
+</div>
 <br><br><br><br>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> See my works
 
-<br/>
+<br/><br>
 
 <div class="works-container" align="center">
 <a href="https://github.com/jmbanasihan/Real-Estate">
