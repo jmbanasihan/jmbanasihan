@@ -27,7 +27,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Stats
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats
 <br>
 <p align="center">
    <a href="https://github.com/jmbanasihan/github-readme-streak-stats">
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me:
 
 <a href = "https://www.linkedin.com/in/janiel-banasihan/"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
