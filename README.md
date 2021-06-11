@@ -41,10 +41,10 @@
 
 <h3 align="left">Connect with me:</h3><hr><br>
 
-<a align="center" href = "https://www.linkedin.com/in/janiel-banasihan/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
-
-<a align="center" href = "https://www.codewars.com/users/janielbanasihan"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a align="center" href = "https://www.linkedin.com/in/janiel-banasihan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
-<a align="center" href = "mailto:janimargaret09@gmail.com"><img src="https://image.flaticon.com/icons/png/512/732/732200.png"/></a>
+<a align="center" href = "https://www.codewars.com/users/janielbanasihan"><img src="https://img.icons8.com/fluent/48/000000/code.png"/></a>
 
+
+<a align="center" href = "mailto:janimargaret09@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
