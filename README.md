@@ -1,7 +1,5 @@
-di<h1 align="center">Hi there 👋, I'm Janiel!</h1>
-
 ![A passionate Frontend Developer from the Philippines](banner.gif)
-
+<h1 align="center">Hi there 👋, I'm Janiel!</h1>
 <h3 align="center">A passionate Frontend Developer from the Philippines</h3><hr><br>
 
  🌱 I’m currently learning **Frontend Web Development**
@@ -20,7 +18,11 @@ di<h1 align="center">Hi there 👋, I'm Janiel!</h1>
 <br>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbanasihan&show_icons=true&locale=en&layout=compact" alt="jmbanasihan" /><br><br>
+<p align="center"></p>
+   <a href="https://github.com/jmbanasihan/github-readme-streak-stats">
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jmbanasihan&theme=dark)](https://git.io/streak-stats)
+    </a>
+</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbanasihan&show_icons=true&locale=en" alt="jmbanasihan" /><br><br>
 
