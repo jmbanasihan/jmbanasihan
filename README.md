@@ -1,4 +1,3 @@
-(header.gif)
 <h1 align="center">Hey there 👋</h1>
 <hr><br>
 
