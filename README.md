@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h1>Hey there 👋</h1>
 <hr><br>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Get to know me!
