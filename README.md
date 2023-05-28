@@ -1,19 +1,13 @@
-![A passionate Frontend Developer from the Philippines](header.gif)
-<h1 align="center">Hey there 👋, I'm Janiel!</h1>
-<h3 align="center">A passionate Frontend Developer from the Philippines</h3><hr><br>
+(header.gif)
+<h1 align="center">Hey there 👋</h1>
+<hr><br>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Get to know me!
 <br>
 
- 🌱 I’m currently learning **Frontend Web Development**
-
- 🔭 I’m currently working on **some projects**
-
- 👨‍💻 You can find my portfolio here [janiel.ml](janiel.ml)
-
+ 👨‍💻 You can find my portfolio here
  📫 Contact me **janimargaret09@gmail.com**
 
- ⚡ Fun fact **I love coffee**
 <br><br>
 
 [![GitHub jmbanasihan](https://img.shields.io/github/followers/jmbanasihan?label=follow&style=social)](https://github.com/jmbanasihan)
